@@ -1,0 +1,5 @@
+Transmitter:
+openExample("usrpradio/QPSKTransmitterWithUSRPHardwareInSimulinkExample")
+
+Reciver:
+openExample("usrpradio/QPSKReceiverWithUSRPHardwareInSimulinkExample")
